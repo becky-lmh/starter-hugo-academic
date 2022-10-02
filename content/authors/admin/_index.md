@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: becky.hu@lmh.ox.ac.uk
+    link: "#contact"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/becky-hu/
