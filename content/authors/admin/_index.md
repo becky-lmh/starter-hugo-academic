@@ -1,6 +1,7 @@
 ---
 title: Becky Hu
 role: 4th Year Engineering Student
+avatar_filename: img_20220620_223531.jpg
 bio: My research interests include Natural Language Processing and Artificial
   Intelligence
 interests:
