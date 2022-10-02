@@ -30,4 +30,4 @@ email: ""
 ---
 B﻿ecky Hu is a 4th year student reading Engineering Science at the University of Oxford. Her 4th year research project will be completed with the Oxford e-Research Centre, supervised by Janet B. Pierrehumbert. The research will use Natural Language Processing to predict trends in social media.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
