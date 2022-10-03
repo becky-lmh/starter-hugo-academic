@@ -1,12 +1,12 @@
 ---
-title: External Project
-date: 2016-04-27T00:00:00Z
-summary: An example of linking directly to an external project website using
-  `external_link`.
+title: Measured the lifetime of B mesons
+date: 2016-06-01T00:00:00.000Z
+summary: ""
 tags:
-  - Demo
+  - ATLAS
 external_link: ""
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
+Measuring the lifetime of B mesons created in the Tevatron at 1.8 TeV center-of-mass proton-antiproton collisions. Using data from ATLAS, CERN.
