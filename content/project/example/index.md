@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 date: 2022-05-01T00:00:00.000Z
-summary: Developing a novel beam profile monitor for Hi-Lumi LHC at CERN.
+summary: 3rd Year Project
 url_video: ""
 title: Developing a novel beam profile monitor for Hi-Lumi LHC at CERN
 featured: true
