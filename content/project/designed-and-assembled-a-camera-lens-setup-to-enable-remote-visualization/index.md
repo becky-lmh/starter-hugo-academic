@@ -5,7 +5,7 @@ summary: S﻿ummer research project at WASP Lab, Weizmann Institute of Science
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
