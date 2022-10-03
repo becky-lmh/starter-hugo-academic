@@ -1,17 +1,19 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+date: 2022-05-01T00:00:00.000Z
+summary: Developing a novel beam profile monitor for Hi-Lumi LHC at CERN.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+title: Developing a novel beam profile monitor for Hi-Lumi LHC at CERN
+featured: true
+tags:
+  - CERN
 external_link: ""
 url_slides: ""
-title: Example Project
-tags:
-  - Deep Learning
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 url_code: ""
 ---
+Developed a novel beam profile monitor for the Large Hadron Collider (LHC). The method is non-invasive, accurate, real-time, and allows for bunch-by-bunch profiling over a spread of proton beam energies.
